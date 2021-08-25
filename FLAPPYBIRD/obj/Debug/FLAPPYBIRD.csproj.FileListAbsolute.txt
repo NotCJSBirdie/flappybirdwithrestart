@@ -1,0 +1,10 @@
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\bin\Debug\FLAPPYBIRD.exe.config
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\bin\Debug\FLAPPYBIRD.exe
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\bin\Debug\FLAPPYBIRD.pdb
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.csproj.AssemblyReference.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.Form1.resources
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.Properties.Resources.resources
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.csproj.GenerateResource.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.csproj.CoreCompileInputs.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.exe
+C:\Users\realcjsphotography\OneDrive\Desktop\FLAPPYBIRD\obj\Debug\FLAPPYBIRD.pdb
